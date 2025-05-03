@@ -1,10 +1,9 @@
-## Hi there 👋
+# Hallo world , my name is wahyu andriono 👋
 
 <!--
 **wahyuandriono10193/wahyuandriono10193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **PT BPR CITANDUY ARTHA**
+- 🌱 I’m currently learning [**laravel**](\\http:laravel.com) framework
+
+![to the moon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVwZXF2cG93c3Z0am5hajFkYTBrOGh6anJoZDY0MnZxZzBlMmVxZSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/utz68KlKM5LGBVF6HZ/giphy.gif)
